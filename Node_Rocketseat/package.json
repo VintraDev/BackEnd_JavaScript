@@ -16,6 +16,9 @@
     "@types/node": "^25.5.2"
   },
   "dependencies": {
-    "fastify": "^5.8.4"
+    "@neondatabase/serverless": "^1.0.2",
+    "dotenv": "^17.4.1",
+    "fastify": "^5.8.4",
+    "postgres": "^3.4.9"
   }
 }
